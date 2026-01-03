@@ -40,32 +40,11 @@ I specialize in building **scalable, high-performance mobile applications** and 
 
 ---
 
-## 📌 Featured Projects
-
-### 📘 Blog Application (Flutter)
-- Authentication (Sign Up / Login)
-- Offline support using Hive
-- Image upload & blog management
-- Bloc state management
-- Supabase backend integration
-
-### 📰 News App (Flutter + Bloc)
-- Real-time news fetching
-- Clean UI with optimized state handling
-- Bloc architecture for scalability
-
-### 📋 Task Management App
-- Task CRUD operations
-- Performance-optimized logic
-- Clean code structure
-
----
-
 ## 📊 GitHub Stats
 
-![Amit Joshi GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshi1996&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshi1996&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshi1996&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshi1996&layout=compact)
 
 ---
 
