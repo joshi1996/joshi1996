@@ -24,7 +24,7 @@ I specialize in building **scalable, high-performance mobile applications** and 
 - Android (Java, Kotlin)
 
 ### Architecture & State Management
-- Bloc / Cubit  
+- Bloc / Cubit, Provider
 - MVVM, Clean Architecture
 
 ### Backend & Integrations
@@ -37,14 +37,6 @@ I specialize in building **scalable, high-performance mobile applications** and 
 - Android Studio, VS Code  
 - Play Store Deployment  
 - CI/CD Basics
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshi1996&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshi1996&layout=compact)
 
 ---
 
