@@ -20,7 +20,7 @@ I'm a results-driven Mobile Application Developer with **6.5+ years of experienc
 
 ### 🎯 What I Bring to the Table
 
-- **Proven Track Record** — Led complete app lifecycles from architecture to Play Store deployment
+- **Proven Track Record** — Led complete app lifecycles from architecture to Play Store and App Store deployment
 - **Leadership Experience** — Mentored and guided teams of 4-5 mobile developers
 - **Architectural Excellence** — Expert in clean architecture, MVVM, and scalable design patterns
 - **Domain Versatility** — E-Commerce, CRM, Loyalty Programs, Healthcare & EdTech
