@@ -22,7 +22,7 @@ I'm a results-driven **Full-Stack Mobile Application Developer** with **6.5+ yea
 
 - **Full-Stack Expertise** — End-to-end development from Flutter frontend to Node.js backend APIs
 - **DevOps Ready** — Hands-on experience with Docker containerization and deployment
-- **Proven Track Record** — Led complete app lifecycles from architecture to Play Store deployment
+- **Proven Track Record** — Led complete app lifecycles from architecture to Play Store and App Store deployment
 - **Leadership Experience** — Mentored and guided teams of 4-5 mobile developers
 - **Architectural Excellence** — Expert in clean architecture, MVVM, and scalable design patterns
 - **Domain Versatility** — E-Commerce, CRM, Loyalty Programs, Healthcare & EdTech
@@ -59,12 +59,12 @@ I'm a results-driven **Full-Stack Mobile Application Developer** with **6.5+ yea
 <br><sub>RESTful API Development</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Docker-Experienced-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <br><strong>Docker</strong>
 <br><sub>Containerization & Deployment</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/REST_APIs-Expert-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_APIs-Proficient-FF6B6B?style=for-the-badge" />
 <br><strong>REST APIs</strong>
 <br><sub>Backend Integration</sub>
 </td>
