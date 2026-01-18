@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Amit Joshi
 
-### Senior Mobile Application Developer | Flutter Specialist
+### Senior Mobile Application Developer | Full-Stack Flutter Specialist
 
-*Crafting exceptional mobile experiences with clean code and scalable architecture*
+*Crafting exceptional mobile experiences with clean code, scalable architecture, and robust backend solutions*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit45)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshi1996)
@@ -16,11 +16,13 @@
 
 ## 🚀 About Me
 
-I'm a results-driven Mobile Application Developer with **6.5+ years of experience**, including **5+ years of deep Flutter expertise**. Currently working at **Astral Limited** in Ahmedabad, I specialize in transforming complex business requirements into elegant, high-performance mobile solutions that users love.
+I'm a results-driven **Full-Stack Mobile Application Developer** with **6.5+ years of experience**, including **5+ years of deep Flutter expertise**. Currently working at **Astral Limited** in Ahmedabad, I specialize in transforming complex business requirements into elegant, high-performance mobile solutions with scalable backend architectures.
 
-### 🎯 What I Bring to the Table
+### 🎯 What Sets Me Apart
 
-- **Proven Track Record** — Led complete app lifecycles from architecture to Play Store and App Store deployment
+- **Full-Stack Expertise** — End-to-end development from Flutter frontend to Node.js backend APIs
+- **DevOps Ready** — Hands-on experience with Docker containerization and deployment
+- **Proven Track Record** — Led complete app lifecycles from architecture to Play Store deployment
 - **Leadership Experience** — Mentored and guided teams of 4-5 mobile developers
 - **Architectural Excellence** — Expert in clean architecture, MVVM, and scalable design patterns
 - **Domain Versatility** — E-Commerce, CRM, Loyalty Programs, Healthcare & EdTech
@@ -30,41 +32,61 @@ I'm a results-driven Mobile Application Developer with **6.5+ years of experienc
 
 ## 💻 Tech Stack & Expertise
 
-### 🔥 Core Technologies
+### 🎯 Frontend Development
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <br><strong>Flutter & Dart</strong>
 <br><sub>5+ years of production experience</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/Android-Advanced-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <br><strong>Android Native</strong>
 <br><sub>Java & Kotlin development</sub>
 </td>
+</tr>
+</table>
+
+### ⚙️ Backend Development
+
+<table>
+<tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Architecture-Expert-FF6B6B?style=for-the-badge" />
-<br><strong>Clean Architecture</strong>
-<br><sub>MVVM, Bloc, Scalable Design</sub>
+<img src="https://img.shields.io/badge/Node.js-Proficient-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<br><strong>Node.js</strong>
+<br><sub>RESTful API Development</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Docker-Experienced-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br><strong>Docker</strong>
+<br><sub>Containerization & Deployment</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/REST_APIs-Expert-FF6B6B?style=for-the-badge" />
+<br><strong>REST APIs</strong>
+<br><sub>Backend Integration</sub>
 </td>
 </tr>
 </table>
 
-### 🎨 State Management & Patterns
+### 🏗️ Architecture & Patterns
+
 ```
-🔷 Bloc / Cubit    🔷 Provider    🔷 MVVM    🔷 Clean Architecture
+🔷 Clean Architecture    🔷 MVVM    🔷 Bloc / Cubit    🔷 Provider
 ```
 
-### 🔌 Backend & Integration
+### 🔌 Backend & Cloud Services
+
 ```
-🔹 REST APIs    🔹 Firebase Suite    🔹 Supabase    🔹 Real-time Features
+🔹 Node.js APIs    🔹 Docker Containers    🔹 Firebase Suite    🔹 Supabase    🔹 Real-time Features
 ```
 
-### 🛠️ Development Tools
+### 🛠️ Development Tools & DevOps
+
 ```
-⚙️ Git & GitHub    ⚙️ Android Studio    ⚙️ VS Code    ⚙️ CI/CD Pipelines
+⚙️ Git & GitHub    ⚙️ Docker    ⚙️ Android Studio    ⚙️ VS Code    ⚙️ CI/CD Pipelines
 ```
 
 ---
@@ -72,24 +94,28 @@ I'm a results-driven Mobile Application Developer with **6.5+ years of experienc
 ## 📱 Featured Projects
 
 ### 🌟 Blog App
-A full-featured blogging application with **offline-first architecture**
+Full-stack blogging application with **offline-first architecture** and seamless sync
 - ✅ Create, read, and manage blogs seamlessly
 - ✅ Offline and online support with data synchronization
 - ✅ Clean architecture implementation
+- ✅ Backend integration for real-time updates
 - 🔗 [View Repository](https://github.com/joshi1996/Blog-App)
 
 ### 📰 News App with Bloc
 Modern news application demonstrating **state management best practices**
 - ✅ Bloc pattern for predictable state management
-- ✅ Real-time news feeds
-- ✅ Optimized performance
+- ✅ Real-time news feeds with API integration
+- ✅ Optimized performance and caching
+- ✅ Clean code architecture
 - 🔗 [View Repository](https://github.com/joshi1996/news_bloc)
 
 ### ✅ Task Management App
-Daily task organizer built with **productivity in mind**
-- ✅ Intuitive task creation and management
-- ✅ User-friendly interface
-- ✅ Efficient workflow optimization
+**Full-stack** task organizer with **Node.js backend** and **Docker deployment**
+- ✅ Flutter frontend with intuitive UI/UX
+- ✅ Node.js REST API backend for task operations
+- ✅ Docker containerization for easy deployment
+- ✅ Real-time task synchronization
+- ✅ User authentication and authorization
 - 🔗 [View Repository](https://github.com/joshi1996/Task-Management-App)
 
 ---
@@ -113,9 +139,23 @@ Daily task organizer built with **productivity in mind**
 I'm actively seeking opportunities where I can:
 
 - 🏢 **Lead Flutter Development** — Senior Flutter or Lead Mobile Developer roles
+- 🔧 **Full-Stack Mobile Development** — Roles leveraging both frontend and backend expertise
 - 💡 **Architecture & Consulting** — Help teams build scalable mobile solutions
 - 🤝 **Collaborate on Open Source** — Contribute to impactful Flutter projects
 - 🌱 **Continuous Growth** — Work with cutting-edge technologies and talented teams
+
+---
+
+## 💼 Professional Highlights
+
+```
+📍 Current Role        : Mobile Developer @ Astral Limited
+🌍 Location           : Ahmedabad, Gujarat, India
+💻 Primary Stack      : Flutter, Dart, Node.js, Docker
+🎯 Specialization     : Full-Stack Mobile Development
+👥 Team Experience    : Led teams of 4-5 developers
+📱 Apps Shipped       : Multiple production apps on Play Store
+```
 
 ---
 
@@ -123,7 +163,7 @@ I'm actively seeking opportunities where I can:
 
 <div align="center">
 
-I'm always excited to discuss Flutter development, mobile architecture, or potential collaborations.
+I'm always excited to discuss Flutter development, backend architecture, or potential collaborations.
 
 ### 📬 Reach Out
 
@@ -141,10 +181,10 @@ I'm always excited to discuss Flutter development, mobile architecture, or poten
 
 <div align="center">
 
-### 💙 Passionate about Flutter | 🎯 Focused on Quality | 🚀 Driven by Impact
+### 💙 Passionate about Flutter | 🚀 Full-Stack Mobile Developer | 🎯 Focused on Quality | 🔧 DevOps Ready
 
 ⭐ ***If you find my work interesting, feel free to star some repositories!***
 
-<sub>Currently working at **Astral Limited** | Based in **Ahmedabad, India**</sub>
+<sub>Built with ❤️ using Flutter, Node.js & Docker</sub>
 
 </div>
